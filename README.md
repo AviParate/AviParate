@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avinash Parate
-- 👀 I’m interested in automating repeatative tasks, functional tests, creating Selenium framework and learning new technologies
-- 🌱 I’m currently learning Selenium
-- 💞️ I’m looking to collaborate on Automation Testing, API automation Testing
+- 👀 I’m interested in automating repeatative tasks, functional tests, creating RestAssured framework and learning new technologies
+- 🌱 I’m currently learning RestAssured
+- 💞️ I’m looking to collaborate on Automation Testing, API automation Testing using RestAssured
 
 
 <!---
